@@ -33,6 +33,7 @@ function App() {
       </p>
       <p>This is a paragraph of text</p>
       <p>Here is another paragraph added for more content</p>
+      <p>And yet another paragraph</p>
     </>
   )
 }
