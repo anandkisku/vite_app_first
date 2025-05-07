@@ -34,6 +34,7 @@ function App() {
       <p>This is a paragraph of text</p>
       <p>Here is another paragraph added for more content</p>
       <p>And yet another paragraph</p>
+      <h2>This is a header</h2>
     </>
   )
 }
