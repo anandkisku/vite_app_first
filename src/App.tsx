@@ -31,6 +31,8 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <p>This is a paragraph of text</p>
+      <p>Here is another paragraph added for more content</p>
     </>
   )
 }
